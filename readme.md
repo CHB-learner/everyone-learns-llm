@@ -11,3 +11,7 @@ https://github.com/ZJU-LLMs/Foundations-of-LLMs
 
 https://github.com/datawhalechina/self-llm
 
+
+[3]
+
+https://huggingface.co/learn
